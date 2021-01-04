@@ -3,6 +3,8 @@ This project looks at customer churn rate at a telecom company and analyzed it's
 
 We also noted some causes that seem to lead to Churn; the prominent reason seemed to be __high total bill__, and the number of __customer service calls__. 
 
+A presentation of slides for this project can be found [here](https://docs.google.com/presentation/d/1u1qWmNsoYsbQREbR3n-F8kNVxRHVTqwHcp1p22arkXo/edit?usp=sharing)
+
 ## Recommended Action
 We would recommend offering a discount to customers suspected of Churning and analyze the effect over the following months.
 
