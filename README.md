@@ -9,7 +9,7 @@ We would recommend offering a discount to customers suspected of Churning and an
 ## Models
 - Dataset is imbalanced so resampling is used
 - Recall is used as our metric for how well a model performs since we want to capture as many customers as possible before they leave. We also consider F1 score, to balance overall performance
-- __Best performing model was XGBoost__
+- __Best performing model was [XGBoost](https://github.com/gseemann/customer_churn#xgboost)__
 
 ### Logistic Regression
 
