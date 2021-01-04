@@ -1,5 +1,5 @@
 # Overview
-This project looks at customer churn rate at a telecom company and analyzed it's causes. After building several models, XGBoost ended up giving the best results. 
+This project looks at customer churn rate at a telecom company and analyzed it's causes. After building several models, XGBoost ended up giving the best results. Full results, analysis, and walkthrough can be found in the `EDA and Models.ipynb` file.
 
 We also noted some causes that seem to lead to Churn; the prominent reason seemed to be __high total bill__, and the number of __customer service calls__. 
 
